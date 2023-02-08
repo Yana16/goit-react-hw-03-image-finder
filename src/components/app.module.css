@@ -1,0 +1,14 @@
+.App {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 4fr;
+    grid-gap: 16px;
+    padding-bottom: 24px;
+  }
+  
+  .Title {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(51, 56, 60);
+  }
+  
